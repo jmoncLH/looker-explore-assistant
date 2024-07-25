@@ -1,7 +1,7 @@
 .cache
 .vscode
 temp_db.json
-.env
+# .env
 .eslintcache
 .terraform*
 terraform.tfstate*
